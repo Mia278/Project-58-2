@@ -1,0 +1,19 @@
+body {
+  background-color:#00E5FF;
+  text-align:center;
+  color:#FF80AB;
+}
+
+h1 {
+  text-shadow:50px;
+  Font-size: 40px;
+}
+p {
+  Font-size: 25px;
+}
+#s1 {
+    font-family: 'Cedarville Cursive', cursive;
+}
+p:hover {
+  background-color: aquamarine;
+}
